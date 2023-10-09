@@ -12,7 +12,7 @@ function Header() {
 
     return (
         <header>
-            <div className="first-container">
+            <div className="h-first-container">
                 <p className='f-c-1_1'>Welcome to</p>
                 <p className='f-c-1_2'>My Data User</p>
                 <p className='f-c-1_3'>Registration</p>
