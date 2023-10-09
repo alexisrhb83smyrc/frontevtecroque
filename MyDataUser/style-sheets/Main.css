@@ -27,6 +27,11 @@
     font-weight: 700;
     font-size: 1.5em;
     text-transform: uppercase;
+    border: none;
+}
+.mi:focus{
+    outline: none;
+    border: none;
 }
 
 .m-1_1{
@@ -39,7 +44,7 @@
     text-transform: uppercase;
 }
 
-.m-1_2{
+/* .m-1_2{
 
 }
 
@@ -49,4 +54,4 @@
 
 .m-1_4{
 
-}
+} */
