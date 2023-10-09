@@ -64,4 +64,6 @@
     border: none; 
     cursor: pointer; 
     text-transform: uppercase;
+    position: absolute;
+    z-index: 10;
 }
